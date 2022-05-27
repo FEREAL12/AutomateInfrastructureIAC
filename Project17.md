@@ -1292,6 +1292,9 @@ Create RDS using *rds.tf* for database.
   ![terraform_plan](screenshots/terraform_plan.png)
 
 - Then run a terraform apply and verify that all resources were created. At this time, the site would not yet run since the userdata needs to be updated properly for the launch templates
+- ![Project17details](https://user-images.githubusercontent.com/41236641/170706314-bd3afe2b-6136-4563-a6e5-5fa1d584d61b.PNG)
+
+![Project17endscreenshot](https://user-images.githubusercontent.com/41236641/170706226-ec8787dc-e4cd-46ef-ae7f-2d1efe8cb6ef.PNG)
 
 
 ## Additional Tasks
